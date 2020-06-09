@@ -1,0 +1,6 @@
+aliyun-python-sdk-core==2.13.14
+aliyun-python-sdk-polardb==1.6.8
+mysql-connector==2.2.9
+datetime==4.3
+requests==2.22.0
+redis==3.4.1
